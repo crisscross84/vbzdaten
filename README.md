@@ -2,8 +2,7 @@
 
 Aufgabe 6:
 
-![alt-a6]: iclouddrive/schreibtisch/a6.png
-![Alt-Text][Bild 1]
+![a6](iclouddrive/schreibtisch/a6.png)
 
 
 
