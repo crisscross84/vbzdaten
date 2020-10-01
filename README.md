@@ -2,7 +2,7 @@
 
 Aufgabe 6:
 
-![Aufgabe 6](file:/vbzdaten/Bookmarks/assets/a6.png)
+![Bild bei Daten](file:/vbzdaten/Bookmarks/assets/a6.png)
 
 
 
@@ -56,3 +56,15 @@ CREATE Table `linie`  (
 	PRIMARY KEY (`fahrweg_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
 \````
+````sql
+SELECT 
+	l.fahrweg_id,
+	l.linie,
+	l.richtung,
+	l.fw_no,
+	l.fw_lang
+FROM 
+	vbzdat.linie 6
+WHERE
+	l.line = 6;
+\````	
