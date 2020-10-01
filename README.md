@@ -1,5 +1,11 @@
 # vbzdaten
 
+Aufgabe 6:
+
+<img src="a6.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 Aufgabe 7:
 
 ````sql
