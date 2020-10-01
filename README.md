@@ -2,7 +2,7 @@
 
 Aufgabe 6:
 
-![Aufgabe 6](file:/Users/CrissCross/git/vbzdaten/Bookmarks/assets/a6.png)
+![Aufgabe 6](file:/vbzdaten/Bookmarks/assets/a6.png)
 
 
 
