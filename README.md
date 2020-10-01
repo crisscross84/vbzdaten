@@ -43,3 +43,16 @@ WHERE datum_von = '03.01.20' AND fahrt_id = 63898
 LIMIT 40000;
 \````
 
+
+Aufgabe 8:
+
+````sql
+CREATE Table `linie`  (
+	`fahrweg_id` int NOT NULL,
+	`linie` int DEFAULT NULL,
+	`richtung` int DEFAULT NULL,
+	`fw_no` int DEFAULT NULL,
+	`fw_lang` varchar(100) DEFAULT NULL,
+	PRIMARY KEY (`fahrweg_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+\````
