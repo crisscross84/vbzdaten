@@ -2,7 +2,7 @@
 
 Aufgabe 6:
 
-![a6](iclouddrive/schreibtisch/a6.png)
+![Aufgabe 6](iclouddrive/schreibtisch/a6.png)
 
 
 
